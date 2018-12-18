@@ -1,0 +1,40 @@
+.promo{
+  background-image: url('../img/bg-pattern.png');
+  background-color: yellow;
+  background-image: url('../img/bg-pattern.png'), linear-gradient(to left,#7b4397,#dc2430);
+  padding-top: 150px;
+  padding-bottom: 100px;
+
+  h1{
+    font-family: "Catamaran";
+    font-size: 50px;
+    font-weight: 200;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    color: white;
+  }
+
+  .iphone{
+    background-image: url('../img/iphone_6_plus_white_port.png');
+    background-repeat: no-repeat;
+    width: 325px;
+    background-size: 100% auto;
+    margin: 0 auto;
+
+    img{
+      width: 100%;
+      padding-top: 75px;
+      padding-left:20px;
+      padding-right:20px;
+      padding-bottom: 75px;
+    }
+  }
+
+  @media(max-width: $grid-tablet){
+    h1{
+      font-size: 30px;
+      text-align: center;
+      }
+
+  }
+}

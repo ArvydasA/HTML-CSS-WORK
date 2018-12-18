@@ -1,0 +1,128 @@
+body {
+  background-color: #f2f2f2;
+  margin: 0;
+  font-size: 14px;
+  font-family: 'Roboto Slab', serif;
+  color: #684f53;
+
+}
+
+.page-header {
+  border-bottom: solid 3px #f45d54;
+  color: #a4243d;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+.page-header span {
+  color: #f45d54;
+}
+
+.margin-top {
+  margin-top: 30px;
+}
+
+.moto {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.moto a {
+  display: block;
+  background-color: white;
+  border: solid 1px lightgrey;
+  color: #684f53;
+  padding: 15px;
+}
+
+.moto a:hover {
+  text-decoration: none;
+
+}
+.moto img {
+  margin: -15px 0 0 0;
+}
+
+.moto strong {
+  color: #c54858;
+  font-size: 22px;
+  display: block;
+  border-bottom: solid 2px #c54858;
+  text-align: left;
+  margin-bottom: 15px;
+  padding-bottom: 10px
+}
+
+ol {
+
+  padding: 0;
+  list-style-position: inside;
+  list-style-type: none;
+  margin: 30 auto;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+
+}
+.fab {
+  margin-left: 50px;
+  margin-right: 50px;
+  color: #F87E55;
+  font-size: 50px;
+}
+
+footer {
+  background-color: #482537;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: white;
+}
+
+footer ol li {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+footer ol a {
+  margin-top: 15px;
+  text-decoration: underline;
+  font-size: 16px;
+  color: white;
+  margin-left: 7px;
+  margin-right: 7px;
+
+}
+
+footer ol a:hover {
+  color: lightgrey;
+  transform: 0.3s;
+}
+
+@media (max-width: 767px) {
+
+   .ol li {
+
+    margin-top: 20px;
+  }
+
+  }
+
+@media (max-width: 476px) {
+
+  .ol li {
+    display: block;
+  }
+}
+
+/* #links {
+  color: #a4243d;  */
+}
+
+.navbar-light .navbar-nav .active .nav-link {
+  color: #a4243d;
+
+}

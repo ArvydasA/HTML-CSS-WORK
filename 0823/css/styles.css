@@ -1,0 +1,130 @@
+.table-responsive{
+overflow-x: auto;
+margin: 0 auto;
+
+}
+
+nav{
+background-color: black;
+font-family: Arial;
+font-size: 14px;
+color: black;
+
+}
+
+
+.container{
+  /* font-weight: bold; */
+  /* font-style: italic; */
+  text-align: center;
+  text: 12px;
+
+
+}
+
+.container-header1{
+font-weight: bold;
+font-style: italic;
+text-align: center;
+text: 50px;
+
+}
+
+.container-header2{
+/* font-weight: bold; */
+font-style: italic;
+text-align: center;
+text: 13px;
+
+}
+
+
+
+table{
+  color: black;
+  font-family: Arial;
+  border-spacing: 0;
+  text-align: left;
+  margin: 0 auto;
+
+}
+
+nav ul{
+list-style-type: none;
+list-style-position: inside;
+margin: 0;
+padding: 0;
+
+}
+
+
+nav a{
+color: black;
+text-decoration: none;
+display: block;
+padding: 15px 20px;
+
+
+}
+
+
+
+
+td,
+th{
+  border-bottom: solid 1px #2c3034;
+  background-color: white;
+  padding: 15px 10px;
+
+}
+
+
+th{
+border-bottom: solid 2px white;
+background-color: grey;
+
+
+}
+
+/* tr:last-child td {
+border-bottom: 0;
+
+
+} */
+
+tfoot td{
+  border-bottom: 0;
+  background-color: white;
+
+}
+
+tr:nth-child(even) td {
+background-color: white;
+
+
+}
+
+nav >ul >li{
+display: inline-block;
+position: relative;
+
+}
+
+nav> ul >li:hover ul{
+display: block;
+
+
+}
+
+nav ul ul{
+display: none;
+position: absolute;
+background-color: #563d7c;
+
+
+}
+
+.table-responsive{
+overflow-x: auto;
+
+}

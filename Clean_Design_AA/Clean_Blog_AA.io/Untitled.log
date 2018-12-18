@@ -1,0 +1,48 @@
+
+9/3/18, 2:46:20 PM - WARNING: Unable to download "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/index.html",
+	because its path is not allowed
+9/3/18, 2:46:20 PM - WARNING: Unable to download "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/index.html",
+	because its path is not allowed
+9/3/18, 2:46:20 PM - WARNING: May not be able to follow all links on "https://blackrockdigital.github.io/startbootstrap-clean-blog/index.html"
+	because it uses JavaScript
+9/3/18, 2:46:20 PM - WARNING: Unable to download "data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/vendor/bootstrap/css/bootstrap.min.css",
+	because it is an invalid or unsupported URL
+9/3/18, 2:46:20 PM - WARNING: Unable to download "data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 4'%3E%3Cpath stroke='%23fff' d='M0 2h4'/%3E%3C/svg%3E",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/vendor/bootstrap/css/bootstrap.min.css",
+	because it is an invalid or unsupported URL
+9/3/18, 2:46:20 PM - WARNING: Unable to download "data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3E%3Ccircle r='3' fill='%23fff'/%3E%3C/svg%3E",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/vendor/bootstrap/css/bootstrap.min.css",
+	because it is an invalid or unsupported URL
+9/3/18, 2:46:20 PM - WARNING: Unable to download "data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/vendor/bootstrap/css/bootstrap.min.css",
+	because it is an invalid or unsupported URL
+9/3/18, 2:46:20 PM - WARNING: Unable to download "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/vendor/bootstrap/css/bootstrap.min.css",
+	because it is an invalid or unsupported URL
+9/3/18, 2:46:20 PM - WARNING: Unable to download "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/vendor/bootstrap/css/bootstrap.min.css",
+	because it is an invalid or unsupported URL
+9/3/18, 2:46:20 PM - WARNING: Unable to download "data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/vendor/bootstrap/css/bootstrap.min.css",
+	because it is an invalid or unsupported URL
+9/3/18, 2:46:20 PM - WARNING: Unable to download "data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/vendor/bootstrap/css/bootstrap.min.css",
+	because it is an invalid or unsupported URL
+9/3/18, 2:46:20 PM - WARNING: May not be able to follow all links on "https://blackrockdigital.github.io/startbootstrap-clean-blog/contact.html"
+	because it uses JavaScript
+9/3/18, 2:46:20 PM - WARNING: May not be able to follow all links on "https://blackrockdigital.github.io/startbootstrap-clean-blog/about.html"
+	because it uses JavaScript
+9/3/18, 2:46:20 PM - WARNING: Unable to download "http://spaceipsum.com/",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/post.html",
+	because its path is not allowed
+9/3/18, 2:46:20 PM - WARNING: Unable to download "https://www.flickr.com/photos/nasacommons/",
+	referenced from "https://blackrockdigital.github.io/startbootstrap-clean-blog/post.html",
+	because its path is not allowed
+9/3/18, 2:46:20 PM - WARNING: May not be able to follow all links on "https://blackrockdigital.github.io/startbootstrap-clean-blog/post.html"
+	because it uses JavaScript
+9/3/18, 2:46:37 PM - STATUS: Level = 3, Files Downloaded = 23, Files Remaining = 0, Errors = 0
+
+---------------------
